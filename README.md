@@ -1,2 +1,0 @@
-# odin-recipes
-The Odin Recipe project's goal is to demonstrate basic html skills to create a website containing three recipes. THe skills practiced were as follows: the html boilerplate, linking to separate pages, adding images, creating ordered and unordered lists.
